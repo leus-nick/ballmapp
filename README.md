@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Typescript](https://www.typescriptlang.org/), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
-Added Prettier[Prettier](https://prettier.io/), [Airbnb Code Style](https://github.com/airbnb/javascript) support and some usefull as for me options in linting and formatting code.
+Added [Prettier](https://prettier.io/), [Airbnb Code Style](https://github.com/airbnb/javascript) support and some usefull as for me options in linting and formatting code.
 
 ## Available Scripts
 
